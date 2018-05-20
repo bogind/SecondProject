@@ -36,8 +36,8 @@ function open_legend(){
 									'box-shadow': '0 0 15px rgba(0,0,0,0.2)',
 									'border-radius': '5px',
 									'position': 'fixed',
-									'left': '400px',
-									'top': '40px',
+									'left': '30%',
+									'top': '12%',
 									'width': '600px',
 									'display': 'block'});
 				$("#container").css('width', '600px');
